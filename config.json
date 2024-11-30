@@ -1,0 +1,9 @@
+{
+    "baseUri": "http://localhost:25382",
+    "port": 25382,
+    "domain": "localhost",
+    "mode": "production",
+    "version": "1.1.0",
+    "ogTitle": "HeroOS",
+    "ogDescription": "HeroOS - Powered by Heropixel Network, #Proudly_Indian, @Prathamesh_Barbole"
+} 
