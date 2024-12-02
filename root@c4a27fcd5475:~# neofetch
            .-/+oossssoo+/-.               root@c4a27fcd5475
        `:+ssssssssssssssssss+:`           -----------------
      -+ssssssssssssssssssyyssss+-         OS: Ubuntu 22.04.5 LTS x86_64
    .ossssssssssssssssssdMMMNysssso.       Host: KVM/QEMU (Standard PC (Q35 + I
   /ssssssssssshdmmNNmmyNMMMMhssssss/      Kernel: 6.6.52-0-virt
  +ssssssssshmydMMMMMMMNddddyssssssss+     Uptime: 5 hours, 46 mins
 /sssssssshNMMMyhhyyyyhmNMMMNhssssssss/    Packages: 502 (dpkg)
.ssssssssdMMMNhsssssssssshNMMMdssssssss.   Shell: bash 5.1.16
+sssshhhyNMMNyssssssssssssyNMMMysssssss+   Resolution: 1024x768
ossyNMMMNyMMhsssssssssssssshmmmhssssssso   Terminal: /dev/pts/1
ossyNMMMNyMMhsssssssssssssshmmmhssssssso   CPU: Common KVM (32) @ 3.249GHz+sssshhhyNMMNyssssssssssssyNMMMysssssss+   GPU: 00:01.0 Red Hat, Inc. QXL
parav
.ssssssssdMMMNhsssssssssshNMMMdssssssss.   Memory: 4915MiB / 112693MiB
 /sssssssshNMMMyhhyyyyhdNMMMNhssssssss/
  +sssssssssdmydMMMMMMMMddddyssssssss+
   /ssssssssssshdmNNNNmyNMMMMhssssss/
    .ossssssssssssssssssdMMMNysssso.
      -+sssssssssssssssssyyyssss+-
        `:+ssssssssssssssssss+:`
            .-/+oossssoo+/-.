@@ -1,0 +1,21 @@
+root@c4a27fcd5475:~# neofetch
+            .-/+oossssoo+/-.               root@c4a27fcd5475
+        `:+ssssssssssssssssss+:`           -----------------
+      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 22.04.5 LTS x86_64
+    .ossssssssssssssssssdMMMNysssso.       Host: KVM/QEMU (Standard PC (Q35 + I
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 6.6.52-0-virt
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 5 hours, 46 mins
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 502 (dpkg)
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: bash 5.1.16
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 1024x768
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Terminal: /dev/pts/1
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   CPU: Common KVM (32) @ 3.249GHz+sssshhhyNMMNyssssssssssssyNMMMysssssss+   GPU: 00:01.0 Red Hat, Inc. QXL
+parav
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Memory: 4915MiB / 112693MiB
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/
+  +sssssssssdmydMMMMMMMMddddyssssssss+
+   /ssssssssssshdmNNNNmyNMMMMhssssss/
+    .ossssssssssssssssssdMMMNysssso.
+      -+sssssssssssssssssyyyssss+-
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.
